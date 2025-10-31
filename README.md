@@ -72,6 +72,9 @@ It includes interactive pages for:
 🎓 Data Science Student  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/doaa-abdelsattar610)
 
+**Rowan Hussein**  
+🎓 Data Science Student  
+🔗 [LinkedIn Profile](linkedin.com/in/rowanhussein)
 > Complete Azure-based data analytics pipeline built using Databricks, PySpark, and Power BI to deliver interactive insights.
 
 
