@@ -43,8 +43,9 @@ It includes interactive pages for:
 - Product insights  
 - Overall business summary  
 
-![Power BI Dashboard](./PowerBI_Dashboard/Page5_Summary.png)
-
+**Sample Dashboard Pages:**  
+![Dashboard Page 3](./PowerBI_Dashboard/dash3.png)  
+![Dashboard Summary](./PowerBI_Dashboard/dash5.png)
 
 ---
 
@@ -68,10 +69,9 @@ It includes interactive pages for:
 
 ## 👩‍💻 Author  
 **Doaa Abdelsattar**  
-📍 Azure Data Engineering Student  
+🎓 Data Science Student  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/doaa-abdelsattar610)
 
 > Complete Azure-based data analytics pipeline built using Databricks, PySpark, and Power BI to deliver interactive insights.
-
-
 
 
