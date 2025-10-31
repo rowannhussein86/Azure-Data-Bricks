@@ -68,10 +68,6 @@ It includes interactive pages for:
 ---
 
 ## 👩‍💻 Author  
-**Doaa Abdelsattar**  
-🎓 Data Science Student  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/doaa-abdelsattar610)
-
 **Rowan Hussein**  
 🎓 Data Science Student  
 🔗 [LinkedIn Profile](linkedin.com/in/rowanhussein)
