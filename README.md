@@ -65,12 +65,3 @@ It includes interactive pages for:
 - Interactive and business-focused Power BI visualizations.  
 - Scalable architecture supporting future data expansion.  
 
----
-
-## 👩‍💻 Author  
-**Rowan Hussein**  
-🎓 Data Science Student  
-🔗 [LinkedIn Profile](linkedin.com/in/rowanhussein)
-> Complete Azure-based data analytics pipeline built using Databricks, PySpark, and Power BI to deliver interactive insights.
-
-
